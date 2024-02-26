@@ -1,0 +1,15 @@
+.inputContainer {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+Input {
+  width: 300px;
+  height: auto;
+  margin-top: 0px;
+}
+label {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+}
